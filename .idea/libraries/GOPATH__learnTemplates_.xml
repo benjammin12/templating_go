@@ -1,0 +1,35 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;learnTemplates&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../com" />
+      <root url="file://$PROJECT_DIR$/../LocalServer" />
+      <root url="file://$PROJECT_DIR$/../honnef.co" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../DayTwo" />
+      <root url="file://$PROJECT_DIR$/../HelloWorld" />
+      <root url="file://$PROJECT_DIR$/../reactServer" />
+      <root url="file://$PROJECT_DIR$/../META-INF" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../hello" />
+      <root url="file://$PROJECT_DIR$/../TicTacGo" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../com" />
+      <root url="file://$PROJECT_DIR$/../LocalServer" />
+      <root url="file://$PROJECT_DIR$/../honnef.co" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../DayTwo" />
+      <root url="file://$PROJECT_DIR$/../HelloWorld" />
+      <root url="file://$PROJECT_DIR$/../reactServer" />
+      <root url="file://$PROJECT_DIR$/../META-INF" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../hello" />
+      <root url="file://$PROJECT_DIR$/../TicTacGo" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Car Brands</title>
+</head>
+<body>
+    <ul>
+        {{range $k, $v := .}}
+        <li>Make {{$v}}: Model {{$k}} </li>
+        {{end}}
+    </ul>
+</body>
+</html>
