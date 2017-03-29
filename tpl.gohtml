@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Gopher go</title>
+</head>
+<body>
+    <ul>
+        {{range .}}
+        {{.Fall.Term}}
+
+        {{range .Fall.Courses}}
+        <li>{{.Number}} - {{.Name}}</li>
+        {{end}}
+        {{end}}
+    </ul>
+<!--
+<h1>{{.Fall.Courses.Name}}</h1>
+-->
+</body>
+</html>
